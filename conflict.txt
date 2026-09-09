@@ -1,1 +1,1 @@
-Version from conflict-b 
+Merged version from conflict-a and conflict-b
